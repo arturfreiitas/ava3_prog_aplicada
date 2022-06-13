@@ -1,5 +1,5 @@
-#ifndef __ARTBIBLIOTECA_H
-#define __ARTBIBLIOTECA_H
+#ifndef __MINHABIBLIOTECA_H
+#define __MINHABIBLIOTECA_H
 #define MAX_SIZE 1024
 
 typedef struct
